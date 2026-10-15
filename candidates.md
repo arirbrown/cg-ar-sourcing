@@ -22,6 +22,16 @@ Bar: public proof of analyst-facing work, and every URL below was loaded during 
 | GitLab | Jennifer Malleo | Media Contact (press@gitlab.com) | media contact on Gartner release | Media contact on GitLab's 2024 and 2025 AI Code Assistants MQ Leader press releases (comms, sits next to AR). From GitLab's own press pages; the BusinessWire search page was unavailable. | https://about.gitlab.com/press/releases/2024-08-22-gitlab-recognized-as-a-leader-in-inaugural-2024-gartner-magic-quadrant-for-ai-code-assistants/<br>https://about.gitlab.com/press/releases/2025-09-17-gitlab-named-a-leader-in-gartner-magic-quadrant-ai-code-assistants/ |  |  |
 | Google Cloud | Stephanie Look | Head of Analyst Relations, Google | AR role/recognition | IIAR AR Professional of the Year 2025 (Americas); Google also AR Team of the Year 2025 | https://analystrelations.org/2025/12/11/and-the-winners-are-celebrating-the-iiar-awards-recipients-for-2025/ |  |  |
 
+## Tier 2b: Harness, Qodo, Augment Code, Tencent Cloud, IBM (in the 2025 AI Code Assistants MQ, not in 2026)
+
+No qualifying person found.
+- **Harness:** no AI Code Assistants MQ announcement. Its sitemap and press page only cover the DevOps/DevSecOps MQs. The 2026 DevSecOps Leader release names no media contact and quotes only execs: https://www.harness.io/press-and-news/harness-named-a-leader-in-the-2026-gartner-r-magic-quadrant-tm-for-devsecops-platforms-for-the-third-consecutive-year
+- **Qodo:** its 2025 Visionary post is written by Itamar Friedman (CEO), so cut under the exec rule: https://www.qodo.ai/blog/qodo-named-a-visionary-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/. Its press page lists a media kit but no named contact.
+- **Augment Code:** no Gartner page in its sitemap, and no press or newsroom page with a contact.
+- **Tencent Cloud:** the tencentcloud.com sitemap is behind a bot wall. Same China-based caveat as Alibaba.
+- **IBM:** IIAR shows IBM AR job postings (2017–2020) but no named watsonx Code Assistant AR owner. The ibm.com search returned nothing usable.
+- **PR Newswire:** 0 Gartner releases for any of the five. BusinessWire search was unavailable.
+
 ## Tier 3: Alibaba Cloud, Tabnine, Atlassian, BytePlus, JetBrains
 
 No qualifying person found.

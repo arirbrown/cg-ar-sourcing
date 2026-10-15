@@ -21,5 +21,6 @@ Result: 8/8 pass.
 |---|---|---|
 | Tier 1 | 1 | GitHub (1) |
 | Tier 2 | 8 | AWS (3), GitLab (4), Google Cloud (1) |
+| Tier 2b | 0 | none (Harness, Qodo, Augment Code, Tencent Cloud, IBM checked) |
 | Tier 3 | 0 | none |
 | Total | 9 | |
