@@ -20,6 +20,7 @@ Result: 8/8 pass.
 | Tier | Rows | Vendors with a row |
 |---|---|---|
 | Tier 1 | 1 | GitHub (1) |
+| Tier 1-agency | 0 | none (17 agencies checked) |
 | Tier 2 | 8 | AWS (3), GitLab (4), Google Cloud (1) |
 | Tier 2b | 0 | none (Harness, Qodo, Augment Code, Tencent Cloud, IBM checked) |
 | Tier 3 | 0 | none |

@@ -9,6 +9,22 @@ Bar: public proof of analyst-facing work, and every URL below was loaded during 
 |---|---|---|---|---|---|---|---|
 | GitHub | Rachel Carbino | Analyst Relations for GitHub | AR role/recognition | Own public X bio; self-stated, no MQ-specific proof found yet | https://x.com/Rachel_Carbino |  |  |
 
+## Tier 1-agency: AR agency account leads on Cursor / Anthropic / OpenAI / GitHub
+
+No qualifying person found. No agency page I loaded names any tier 1 vendor as a client, and no team page lists dev tools or AI coding as a focus.
+- **Checked:**
+  - **Agencies Ari named:** Spotlight AR (https://spotlight-io.com, IIAR AR Agency of the Year 2025 Americas), Kea (https://keaar.com), SageCircle (https://sagecircle.com), Hotwire (https://www.hotwireglobal.com) and Big Valley (https://bigvalley.co).
+  - **IIAR member agencies** (https://analystrelations.org/iiar-member-ar-agencies/): Starsight (AoY 2025 EMEA), Schaffer AR, Spark 180, St. Cross, CCgroup, Magnolia AR, Marathe AR, Metia and ARInsights.
+  - **Others:** Cognito, The Skills Connection and SourceCode Communications.
+  - **How:** for each one I read the homepage HTML (including logo alt text), the sitemap URLs, the client and case-study pages, and the team or about pages.
+- **Lighthouse AR:** no website found.
+- **Tier 2 associations only, no named person:**
+  - Hotwire's homepage client logos include **Google Cloud**: https://www.hotwireglobal.com/
+  - Metia's homepage features an "Epidemic Sound | Google Cloud" work item: https://metia.com/
+- **Caveats:**
+  - Spotlight publishes one case study, and it's anonymised. Agencies rarely name AI-lab clients publicly.
+  - The account-lead angle will most likely need LinkedIn or direct outreach.
+
 ## Tier 2: GitLab, AWS, Google Cloud
 
 | Vendor | Person | Role as stated | Evidence type | Evidence | URL(s) | Pick | Note |
