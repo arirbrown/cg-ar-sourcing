@@ -10,6 +10,7 @@
 3. Rachel Carbino, GitHub. Only name at a current Leader. Evidence is self reported, verify before reaching out.
 
 **Draft first touch, from Brandon**
+
 Ryan, I run marketing at [Cognition / a company you'd recognize from the 2026 coding agents MQ]. We're building out analyst relations and you were the first person I wanted to talk to. You ran GitLab through two cycles with Walsh and Holloway, and I saw you've since gone independent. I'm in [San Diego] [this week], would love to grab coffee if you're around.
 
 Research layer, sources and verification: [PR #1](https://github.com/arirbrown/cg-ar-sourcing/pull/1)
