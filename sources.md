@@ -60,3 +60,14 @@
 [gsym]: https://www.gartner.com/en/conferences/apac/symposium-australia/sessions/detail/4979787-Magic-Quadrant-for-Enterprise-AI-Coding-Agents
 [gweb]: https://www.gartner.com/en/webinar/894695/1900069-2026-magic-quadrant-for-enterprise-ai-coding-agents-a-guided-tour
 [reprint]: https://www.gartner.com/reprints/?id=1-2NEACZCW&ct=260520&st=sb
+
+## 2025 MQ for AI Code Assistants (for tier 2b)
+
+Gartner, *Magic Quadrant for AI Code Assistants*, published 15 September 2025 (https://www.gartner.com/en/documents/6948266). 14 vendors. Positions are read off the Gartner graphic in GitLab's announcement (https://about.gitlab.com/blog/gitlab-named-a-leader-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/, image https://res.cloudinary.com/about-gitlab-com/image/upload/v1758121248/jfkmhddve6qvlg79xico.png). Visual Studio Magazine confirms the Leaders: https://visualstudiomagazine.com/articles/2025/09/17/report-github-tops-ai-coding-assistants-with-microsoft-related-cautions.aspx
+
+- **Leaders:** GitHub, Amazon, Cognition (Windsurf), GitLab, Google Cloud
+- **Challengers:** Anysphere (Cursor), Alibaba Cloud
+- **Visionaries:** Harness, Qodo, Tabnine, Augment Code
+- **Niche Players:** Tencent Cloud, IBM, JetBrains
+
+**In 2025 but not in the 2026 agents MQ:** GitLab (already tier 2), Harness, Qodo, Augment Code, Tencent Cloud, IBM. The last five are **tier 2b** (Ari, for now).
